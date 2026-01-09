@@ -26,7 +26,7 @@ You need Python 3 to run CUPP.
 Quick start
 -----------
 
-    $ python3 cupp.py -h
+    $ python3 CUPP.py -h
 
 ## Options
 
@@ -75,7 +75,7 @@ Quick start
   https://github.com/suraj2830009-arch
   https://github.com/sonalverma27209-ship-it
 
-𝗔𝗻𝘆 𝗘𝗿𝗿𝗼𝗿 𝗥𝗲𝗮𝗰𝗵 𝘂𝘀 𝗮𝘁 👇🏼👇🏼 https://whatsapp.com/channel/0029Vb6cdtSFSAt3SzjK8q0N
+## 𝗔𝗻𝘆 𝗘𝗿𝗿𝗼𝗿 𝗥𝗲𝗮𝗰𝗵 𝘂𝘀 𝗮𝘁 👇🏼👇🏼 https://whatsapp.com/channel/0029Vb6cdtSFSAt3SzjK8q0N
 
 <h3 align="left">Connect with me:</h3>
 
