@@ -3,7 +3,8 @@
 #  [Program]
 #
 #  WHP-CUPP
-#  White Hat Pro Common User Passwords Profiler
+#  White Hat Pro 
+#  Common User Passwords Profiles
 #
 #  [Author]
 #
