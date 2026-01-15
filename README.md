@@ -37,6 +37,8 @@ Quick start and setup
     chmod  +x *
     
     python3 WHP-CUPP.py -h
+
+    python3 WHP-CUPP.py
     
 ## Options
 
