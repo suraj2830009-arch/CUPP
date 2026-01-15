@@ -27,20 +27,20 @@ Quick start and setup
 -----------
 
     $ sudo apt update 
-
+    
     $ apt install git python3 curl wget -y
     
     $ git clone https://github.com/suraj2830009-arch/CUPP.git
-
+    
     $ cd CUPP
-
+    
     $ chmod  +x *
-
+    
     $ python3 CUPP.py -h
- 
+    
 ## Options
 
-  Usage: cupp.py [OPTIONS]
+  Usage: CUPP.py [OPTIONS]
 
         -h      this menu
 
