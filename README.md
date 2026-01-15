@@ -32,7 +32,7 @@ Quick start and setup
     
     git clone https://github.com/suraj2830009-arch/WHP-CUPP.git
     
-    cd CUPP
+    cd WHP-CUPP
     
     chmod  +x *
     
