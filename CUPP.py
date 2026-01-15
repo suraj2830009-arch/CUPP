@@ -150,22 +150,23 @@ def print_to_file(filename, unique_list_finished):
 
 
 def print_cow():
-    print(" ___________ ")
-    print(" \033[07m  CUPP.py! \033[27m                # \033[07mC\033[27mommon")
+    print(" ________________ ")
+    print(" \033[07m  WHP-CUPP.py! \033[27m                # \033[07mC\033[27mommon")
     print("      \\                     # \033[07mU\033[27mser")
     print("       \\   \033[1;31m,__,\033[1;m             # \033[07mP\033[27masswords")
     print("        \\  \033[1;31m(\033[1;moo\033[1;31m)____\033[1;m         # \033[07mP\033[27mrofiler")
-    print("           \033[1;31m(__)    )\\ \033[1;m  ")
-    print("           \033[1;31m   ||--|| \033[1;m\033[05m*\033[25m\033[1;m")    
+    print("           \033[1;31m(__)    )\\ \033[1;m                              # \033[07mP\033[27mhite")
+    print("           \033[1;31m   ||--|| \033[1;m\033[05m*\033[25m\033[1;m             # \033[07mP\033[27mat")
+    print("                                                                                 # \033[07mP\033[27mro")
     print("                            [ Suraj | https://github.com/suraj2830009-arch]\r\n")
 
 
 def version():
     """Display version"""
 
-    print("\r\n	\033[1;31m[ cupp.py ]  " + __version__ + "\033[1;m\r\n")
+    print("\r\n	\033[1;31m[ WHP-Cupp.py ]  " + __version__ + "\033[1;m\r\n")
     print("	* Hacked up by Suraj X Whp")
-    print("	* http://github.com/suraj2830009-arch/CUPP/tree/main\r\n")
+    print("	* http://github.com/suraj2830009-arch/WHP-CUPP/tree/main\r\n")
     print("	Take a look ./README.md file for more info about the program\r\n")
 
 
@@ -272,7 +273,7 @@ def improve_dictionary(file_to_open):
             x
         ) in (
             unique_lista
-        ):  # if you want to add more leet chars, you will need to add more lines in cupp.cfg too...
+        ):  # if you want to add more leet chars, you will need to add more lines in Cupp.cfg too...
             x = make_leet(x)  # convert to leet
             unique_leet.append(x)
 
