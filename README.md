@@ -98,11 +98,8 @@ Quick start and setup for termux
   See './LICENSE' for more information.
 
   ## Contributors
-  The Contributors Are:-
-  https://github.com/suraj2830009-arch
-  
-  
-  https://github.com/sonalverma27209-ship-it
+  The Contributor Is:-
+  [CONTRIBUTOR NAME-]https://github.com/sonalverma27209-ship-it
 
 ## 𝗔𝗻𝘆 𝗘𝗿𝗿𝗼𝗿 𝗥𝗲𝗮𝗰𝗵 𝘂𝘀 𝗮𝘁 👇🏼👇🏼 
 
