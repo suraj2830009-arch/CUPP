@@ -102,8 +102,8 @@ Quick start and setup for termux
 <a href="https://github.com/sonalverma27209-ship-it">
   <img src="https://avatars.githubusercontent.com/sonalverma27209-ship-it" width="60px;" />
 </a>
-<a href="https://github.com/contributor-sonalverma27209-ship-it">
-  <img src="https://avatars.githubusercontent.com/contributor-sonalverma27209-ship-it" width="60px;" />
+<a href="https://github.com/contributor-suraj2830009-arch">
+  <img src="https://avatars.githubusercontent.com/contributor-suraj2830009-arch" width="60px;" />
 </a>
 
 ## 𝗔𝗻𝘆 𝗘𝗿𝗿𝗼𝗿 𝗥𝗲𝗮𝗰𝗵 𝘂𝘀 𝗮𝘁 👇🏼👇🏼 
