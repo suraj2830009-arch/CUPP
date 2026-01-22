@@ -104,8 +104,12 @@ Quick start and setup for termux
 </a>
 
 ## 𝗔𝗻𝘆 𝗘𝗿𝗿𝗼𝗿 𝗥𝗲𝗮𝗰𝗵 𝘂𝘀 𝗮𝘁 👇🏼👇🏼 
-[WhatsApp](https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg)
-https://whatsapp.com/channel/0029Vb6cdtSFSAt3SzjK8q0N
+<a href="https://whatsapp.com/channel/0029Vb6cdtSFSAt3SzjK8q0N">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/whatsapp.svg" width="40" />
+</a>
+<a href="https://t.me/hacker829">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/telegram.svg" width="40"/>
+</a>
 
 <h3 align="left">Connect with me:</h3>
 
